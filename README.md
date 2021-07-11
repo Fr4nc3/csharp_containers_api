@@ -41,43 +41,43 @@ dotnet user-secrets list --project fr4nc3.com.containers
 
 ### Application Insights Configuration
 
-![Screenshot](/images/appinsighs_configuration.png)
+![Screenshot](/Images/appinsighs_configuration.png)
 
 ### Debug Logs
 
-![Screenshot](/images/debug_logs.png)
+![Screenshot](/Images/debug_logs.png)
 
 ### Application Map
 
-![Screenshot](/images/insights_application_map.png)
+![Screenshot](/Images/insights_application_map.png)
 
 ### Insights Home
 
-![Screenshot](/images/insights_home.png)
+![Screenshot](/Images/insights_home.png)
 
 ### Insights Performance
 
-![Screenshot](/images/insights_performance.png)
+![Screenshot](/Images/insights_performance.png)
 
 ### Console Logs
 
-![Screenshot](/images/consolelogs.png)
+![Screenshot](/Images/consolelogs.png)
 
 ### Insights API Access
 
-![Screenshot](/images/insights_api_access.png)
+![Screenshot](/Images/insights_api_access.png)
 
 ### Insights Errors
 
-![Screenshot](/images/insights_failures.png)
+![Screenshot](/Images/insights_failures.png)
 
 ### Insisghts live Metrics
 
-![Screenshot](/images/insights_live_metrics.png)
+![Screenshot](/Images/insights_live_metrics.png)
 
 ### Insisghts role Assingment
 
-![Screenshot](/images/insights_role_assign.png)
+![Screenshot](/Images/insights_role_assign.png)
 
 ## Unitests
 
